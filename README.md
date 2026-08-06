@@ -1,2 +1,5 @@
-# iso27001-practical-guide
-Practical explanations of ISO/IEC 27001:2022 clauses, Annex A controls, ISMS implementation guides, templates, and GRC resources.
+# Welcome to the ISO/IEC 27001 Practical Guide.
+
+This section introduces Information Security Management Systems (ISMS), explains what ISO/IEC 27001 is, and outlines how to use this repository.
+
+<img width="675" height="657" alt="image" src="https://github.com/user-attachments/assets/50dfc0d2-a6de-47ad-8eb4-4eabfe7b3df3" />
