@@ -1,0 +1,4 @@
+Asset ID,Asset Name,Type,Owner,Classification,Location,Criticality,Last Reviewed
+AST-001,Customer CRM Database,Data/System,Sales Ops Manager,Restricted,AWS eu-west-1,Critical,2026-01-15
+AST-002,Corporate Laptop Fleet,Hardware,IT Manager,Confidential,Employee-held,Medium,2026-01-15
+AST-003,Marketing Website,System,Marketing Manager,Public,AWS us-east-1,Low,2026-01-15
