@@ -1,0 +1,6 @@
+Clause/Control,Requirement,Question,Evidence Reviewed,Conformance (Y/N/Partial),Finding,Auditor,Date
+4.1,Context of Organization,Has the organization determined internal/external issues relevant to the ISMS?,Context of Organization doc,Y,,,
+6.1,Risk Assessment,Is risk assessment performed per the documented methodology?,Risk Register,Y,,,
+7.2,Competence,Are records of employee competence/training maintained?,Training Records,Partial,Training log missing for 2 new hires,,
+9.2,Internal Audit,Is an internal audit program in place covering all clauses within audit cycle?,Audit Schedule,Y,,,
+A.8.5,Secure Authentication,Is MFA enforced for all privileged accounts?,IAM configuration screenshot,Y,,,

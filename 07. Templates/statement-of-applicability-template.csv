@@ -1,0 +1,6 @@
+Control ID,Control Name,Theme,Applicable (Y/N),Justification for Inclusion/Exclusion,Implementation Status,Related Policy/Procedure,Owner
+A.5.1,Policies for information security,Organizational,Y,Required baseline,Implemented,Information Security Policy,CISO
+A.5.7,Threat intelligence,Organizational,Y,Relevant given external threat landscape,In Progress,,Security Team
+A.6.3,Information security awareness education and training,People,Y,Mandatory annual training program,Implemented,Awareness Program,HR/CISO
+A.7.1,Physical security perimeters,Physical,N,No physical office - fully remote/cloud org,N/A,,Facilities
+A.8.5,Secure authentication,Technological,Y,MFA required org-wide,Implemented,Password Policy,IT
