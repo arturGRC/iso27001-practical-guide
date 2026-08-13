@@ -1,5 +1,13 @@
-# Welcome to the ISO/IEC 27001 Practical Guide.
+# 01. ISO Standards
 
-This section introduces Information Security Management Systems (ISMS), explains what ISO/IEC 27001 is, and outlines how to use this repository.
+Reference material explaining the standards this toolkit is built against. These are **summaries and explainers**, not the official standard text (ISO standards are copyrighted and must be purchased from iso.org or your national standards body).
 
-<img width="675" height="657" alt="image" src="https://github.com/user-attachments/assets/50dfc0d2-a6de-47ad-8eb4-4eabfe7b3df3" />
+| File | What it covers |
+|---|---|
+| `ISO-27001-2022-overview.md` | Structure of the standard: Clauses 4-10 + Annex A, what changed from the 2013 version |
+| `ISO-27002-2022-overview.md` | Implementation guidance for the 93 Annex A controls |
+| `ISO-27005-risk-management.md` | Risk management methodology referenced by Clause 6.1 |
+| `ISO-19011-audit-guidelines.md` | How to plan and conduct management system audits |
+| `other-supporting-standards.md` | ISO 27004 (monitoring/measurement), ISO 22301 (BCM), ISO 31000 (risk) |
+
+**Why this folder exists:** You cannot implement ISO 27001 well without understanding it structurally first. Most implementation failures come from treating it as a checklist rather than a management system.
