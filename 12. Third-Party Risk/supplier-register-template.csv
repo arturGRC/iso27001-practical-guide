@@ -1,0 +1,3 @@
+Supplier Name,Service Provided,Data Accessed,Risk Tier,Security Certification,Contract Start,Last Assessment Date,Next Review Due
+Acme Cloud Hosting,IaaS hosting,Customer data (Restricted),Critical,ISO 27001 + SOC 2 Type II,2025-01-01,2026-01-15,2027-01-15
+BetaPay Payments,Payment processing,Payment data (Restricted),Critical,PCI DSS Level 1,2025-03-01,2026-01-10,2027-01-10
