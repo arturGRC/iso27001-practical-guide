@@ -1,0 +1,10 @@
+Control ID,Control Name,Theme,Applicable (Y/N),Justification for Inclusion/Exclusion,Implementation Status,Related Risk ID,Owner
+A.5.12,Classification of information,Organizational,Y,PHI must be classified distinctly from general business data per HIPAA,Implemented,R-006,Compliance Officer
+A.5.19,Information security in supplier relationships,Organizational,Y,Billing vendor and RPM device vendors process/touch PHI,In Progress,R-008,Compliance Officer
+A.6.7,Remote working,People,Y,180 of 220 staff are field-based clinicians by design,Implemented,R-001,IT Director
+A.7.1,Physical security perimeters,Physical,Y,Corporate office holds workstations with EHR admin access; home-visit settings addressed separately under A.6.7,Implemented,,Facilities Manager
+A.8.1,User endpoint devices,Technological,Y,210 field devices are the primary PHI access point outside the office,In Progress,R-001; R-009,IT Director
+A.8.5,Secure authentication,Technological,Y,MFA required for all EHR access following R-003,In Progress,R-003,IT Director
+A.8.24,Use of cryptography,Technological,Y,Encryption required for PHI at rest (laptops) and in transit (RPM, telehealth),In Progress,R-001; R-004; R-007,IT Director
+A.5.29,Information security during disruption,Organizational,Y,Patient care cannot pause during an outage — continuity plan mandatory,Implemented,R-002,Clinical Ops Manager
+A.7.4,Physical security monitoring,Physical,N,Single small office with no after-hours access risk; compensating control is alarm + landlord security,N/A,,Facilities Manager

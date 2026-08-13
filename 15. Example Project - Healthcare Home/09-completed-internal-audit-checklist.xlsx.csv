@@ -1,0 +1,7 @@
+Clause/Control,Requirement,Question,Evidence Reviewed,Conformance (Y/N/Partial),Finding,Auditor,Date
+4.3,Scope,Is the documented ISMS scope still accurate given current operations?,Scope Document v1.2,Y,None,J. Alvarez,2026-02-10
+6.1,Risk Assessment,Are all risks in the register reassessed at least annually?,Risk Register (04),Partial,R-006 (paper chart risk) last reviewed 14 months ago - overdue,J. Alvarez,2026-02-10
+A.6.7,Remote Working,Are field devices verified as encrypted before EHR access is granted?,MDM enrollment report; sample of 15 devices,Y,All 15 sampled devices confirmed encrypted,J. Alvarez,2026-02-11
+A.8.5,Secure Authentication,Is MFA enforced for 100% of active EHR accounts?,IAM configuration export,Partial,"6 of 220 accounts (legacy physician portal integrations) still on password-only auth",J. Alvarez,2026-02-11
+A.5.19,Supplier Relationships,Do all vendors touching PHI have a current BAA and security attestation on file?,Supplier Register,Partial,RPM device vendor BAA is current; billing vendor SOC 2 report is 18 months old (R-008),J. Alvarez,2026-02-11
+9.3,Management Review,Was the last management review conducted per the required agenda and are actions tracked to closure?,Management Review Minutes (10),Y,All prior actions closed or have active due dates,J. Alvarez,2026-02-12
